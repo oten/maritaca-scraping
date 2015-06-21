@@ -1,216 +1,216 @@
 ,Entrevistador:,Data de Preenchimento:,Número do formulário:,Sexo do responsável:,Idade do responsável:,Sexo da criança:,Idade da criança:,Quantos televisores em cores você possui?,Quantos rádio você possui?,Quantos banheiro tem a casa?,Quantos automóveis você possui?,Possui empregada mensalista?,Quantas máquina de lavar você possui?,Quantos videocassete e/ou DVD você possui?,Quantas geladeira você possui?,Quantos freezer (aparelho independente ou parte da geladeira duplex) você possui?,Grau de Instrução do chefe de família (entre parênteses nomenclatura atual) – escolha apenas uma alternativa:
-1,Diego Silva,10/12/14 09:46 AM,12,"""Masculino""",12,"""Masculino""",85,"""3""","""3""","""4 ou +""","""2""","""4 ou +""","""2""","""3""","""3""","""4 ou +""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-2,Jacqueline Maximiano Conceicao,18/12/14 11:50 AM,1,"""Feminino""",35,"""Masculino""",1,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-3,Anna Carolina Alves,22/12/14 12:31 PM,01,"""Feminino""",46,"""Masculino""",5,"""2""","""1""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-4,Anna Carolina Alves,22/12/14 12:45 PM,02,"""Feminino""",45,"""Feminino""",4,"""2""","""1""","""1""","""2""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-5,Anna Carolina Alves,22/12/14 12:57 PM,03,"""Feminino""",33,"""Masculino""",8,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-6,Anna Carolina Alves,22/12/14 01:12 PM,04,"""Feminino""",34,"""Feminino""",5,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-7,Anna Carolina Alves,22/12/14 01:25 PM,05,"""Feminino""",21,"""Masculino""",2,"""1""","""1""","""1""","""1""","""0""","""0""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-8,Anna Carolina Alves,22/12/14 01:43 PM,06,"""Masculino""",38,"""Feminino""",9,"""1""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-9,Anna Carolina Alves,22/12/14 01:56 PM,07,"""Feminino""",37,"""Feminino""",11,"""2""","""2""","""1""","""0""","""0""","""1""","""1""","""0""","""0""","""Superior completo (Superior completo)"""
-10,Jacqueline Maximiano Conceicao,06/01/15 09:02 AM,2,"""Feminino""",353,"""Masculino""",3,"""1""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-11,Jacqueline Maximiano Conceicao,06/01/15 09:24 AM,3,"""Feminino""",25,"""Feminino""",4,"""2""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-12,Jacqueline Maximiano Conceicao,06/01/15 10:02 AM,4,"""Feminino""",28,"""Masculino""",2,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-13,Jacqueline Maximiano Conceicao,06/01/15 10:58 AM,5,"""Feminino""",30,"""Masculino""",6,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-14,Jacqueline Maximiano Conceicao,06/01/15 11:08 AM,6,"""Feminino""",28,"""Masculino""",1,"""1""","""2""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-15,Angelica Manfroi,07/01/15 09:26 AM,001,"""Feminino""",33,"""Feminino""",7,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-16,Angelica Manfroi,07/01/15 09:48 AM,002,"""Masculino""",26,"""Feminino""",4,"""3""","""2""","""2""","""2""","""0""","""2""","""2""","""2""","""2""","""Superior completo (Superior completo)"""
-17,Angelica Manfroi,07/01/15 10:11 AM,003,"""Feminino""",30,"""Feminino""",0,"""1""","""1""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-18,Angelica Manfroi,07/01/15 10:30 AM,004,"""Feminino""",27,"""Masculino""",1,"""4 ou +""","""1""","""1""","""1""","""0""","""1""","""2""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-19,Angelica Manfroi,07/01/15 11:07 AM,005,"""Feminino""",36,"""Masculino""",8,"""1""","""1""","""2""","""1""","""0""","""1""","""0""","""1""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-20,Jacqueline Maximiano Conceicao,07/01/15 11:32 AM,7,"""Feminino""",23,"""Masculino""",2,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-21,Jacqueline Maximiano Conceicao,07/01/15 12:00 PM,8,"""Masculino""",33,"""Feminino""",2,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-22,Jacqueline Maximiano Conceicao,07/01/15 12:20 PM,9,"""Feminino""",20,"""Feminino""",1,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-23,Anna Carolina Alves,07/01/15 12:30 PM,08,"""Feminino""",49,"""Masculino""",1,"""1""","""1""","""2""","""1""","""0""","""0""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-24,Jacqueline Maximiano Conceicao,07/01/15 12:39 PM,10,"""Masculino""",29,"""Feminino""",3,"""1""","""1""","""1""","""1""","""0""","""0""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-25,Anna Carolina Alves,07/01/15 12:48 PM,9,"""Feminino""",25,"""Feminino""",6,"""1""","""0""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-26,Jacqueline Maximiano Conceicao,07/01/15 01:01 PM,11,"""Feminino""",34,"""Masculino""",7,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-27,Anna Carolina Alves,07/01/15 01:03 PM,10,"""Feminino""",44,"""Feminino""",7,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-28,Anna Carolina Alves,07/01/15 01:19 PM,11,"""Feminino""",23,"""Feminino""",3,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-29,Anna Carolina Alves,07/01/15 01:38 PM,12,"""Feminino""",32,"""Masculino""",1,"""2""","""1""","""1""","""1""","""0""","""0""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-30,Caio Morcelli,07/01/15 03:05 PM,1,"""Feminino""",32,"""Masculino""",2,"""3""","""1""","""2""","""0""","""0""","""1""","""1""","""2""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-31,Caio Morcelli,07/01/15 03:33 PM,2,"""Feminino""",38,"""Masculino""",2,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-32,Caio Morcelli,07/01/15 03:55 PM,3,"""Masculino""",34,"""Feminino""",3,"""1""","""0""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-33,Angelica Manfroi,08/01/15 09:18 AM,006,"""Feminino""",26,"""Feminino""",1,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-34,Angelica Manfroi,08/01/15 09:42 AM,007,"""Feminino""",24,"""Masculino""",1,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-35,Jacqueline Maximiano Conceicao,08/01/15 09:43 AM,12,"""Feminino""",26,"""Feminino""",3,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-36,Jacqueline Maximiano Conceicao,08/01/15 10:07 AM,13,"""Feminino""",42,"""Masculino""",4,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-37,Angelica Manfroi,08/01/15 10:30 AM,008,"""Feminino""",38,"""Feminino""",7,"""1""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-38,Jacqueline Maximiano Conceicao,08/01/15 10:35 AM,14,"""Feminino""",316,"""Masculino""",6,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-39,Angelica Manfroi,08/01/15 10:56 AM,009,"""Feminino""",27,"""Feminino""",5,"""3""","""1""","""1""","""1""","""0""","""1""","""1""","""2""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-40,Jacqueline Maximiano Conceicao,08/01/15 10:58 AM,15,"""Feminino""",25,"""Feminino""",4,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-41,Angelica Manfroi,08/01/15 11:23 AM,010,"""Feminino""",22,"""Feminino""",4,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-42,Jacqueline Maximiano Conceicao,08/01/15 11:24 AM,16,"""Feminino""",19,"""Masculino""",2,"""1""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-43,Jacqueline Maximiano Conceicao,09/01/15 09:25 AM,17,"""Feminino""",54,"""Feminino""",5,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-44,Angelica Manfroi,09/01/15 09:49 AM,011,"""Feminino""",37,"""Masculino""",2,"""1""","""0""","""1""","""0""","""0""","""0""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-45,Jacqueline Maximiano Conceicao,09/01/15 09:54 AM,18,"""Feminino""",19,"""Masculino""",2,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-46,Angelica Manfroi,09/01/15 10:01 AM,012,"""Feminino""",33,"""Masculino""",7,"""2""","""0""","""1""","""0""","""0""","""0""","""1""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-47,Jacqueline Maximiano Conceicao,09/01/15 10:24 AM,19,"""Feminino""",25,"""Feminino""",4,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-48,Angelica Manfroi,09/01/15 10:25 AM,013,"""Feminino""",27,"""Feminino""",1,"""1""","""1""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Analfabeto / Primário incompleto (Analfabeto ou até 3a. Série do Fundamental) """
-49,Anna Carolina Alves,09/01/15 10:29 AM,13,"""Feminino""",18,"""Masculino""",1,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-50,Anna Carolina Alves,09/01/15 10:44 AM,14,"""Feminino""",35,"""Feminino""",7,"""2""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-51,Angelica Manfroi,09/01/15 10:47 AM,014,"""Masculino""",29,"""Feminino""",1,"""1""","""0""","""4 ou +""","""0""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-52,Jacqueline Maximiano Conceicao,09/01/15 10:50 AM,20,"""Feminino""",23,"""Masculino""",3,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-53,Angelica Manfroi,09/01/15 11:02 AM,015,"""Feminino""",28,"""Feminino""",4,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-54,Anna Carolina Alves,09/01/15 11:07 AM,15,"""Feminino""",31,"""Masculino""",3,"""2""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-55,Jacqueline Maximiano Conceicao,09/01/15 11:10 AM,21,"""Feminino""",28,"""Masculino""",0,"""1""","""0""","""1""","""0""","""0""","""0""","""0""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-56,Anna Carolina Alves,09/01/15 11:17 AM,16,"""Masculino""",23,"""Masculino""",1,"""2""","""1""","""1""","""1""","""0""","""0""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-57,Anna Carolina Alves,09/01/15 11:35 AM,17,"""Feminino""",36,"""Feminino""",3,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-58,Angelica Manfroi,12/01/15 10:25 AM,016,"""Feminino""",32,"""Feminino""",0,"""2""","""0""","""1""","""0""","""0""","""0""","""0""","""0""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-59,Angelica Manfroi,12/01/15 10:44 AM,017,"""Feminino""",38,"""Feminino""",5,"""1""","""0""","""3""","""0""","""0""","""1""","""1""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-60,Angelica Manfroi,12/01/15 11:13 AM,018,"""Feminino""",37,"""Feminino""",4,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-61,Angelica Manfroi,12/01/15 11:32 AM,019,"""Feminino""",23,"""Masculino""",1,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-62,Angelica Manfroi,12/01/15 11:48 AM,020,"""Feminino""",32,"""Masculino""",2,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-63,Caio Morcelli,13/01/15 10:17 AM,4,"""Masculino""",24,"""Feminino""",9,"""2""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-64,Angelica Manfroi,13/01/15 12:49 PM,021,"""Feminino""",30,"""Feminino""",2,"""1""","""1""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-65,Angelica Manfroi,13/01/15 01:31 PM,022,"""Masculino""",42,"""Feminino""",2,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""4 ou +""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-66,Angelica Manfroi,13/01/15 01:54 PM,023,"""Feminino""",29,"""Masculino""",2,"""1""","""0""","""1""","""1""","""0""","""1""","""0""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-67,Angelica Manfroi,13/01/15 02:22 PM,024,"""Feminino""",19,"""Feminino""",3,"""1""","""1""","""1""","""0""","""0""","""0""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-68,Angelica Manfroi,13/01/15 02:39 PM,025,"""Feminino""",32,"""Masculino""",4,"""2""","""0""","""2""","""1""","""0""","""1""","""0""","""1""","""1""","""Superior completo (Superior completo)"""
-69,Angelica Manfroi,14/01/15 10:10 AM,026,"""Feminino""",39,"""Feminino""",8,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-70,Angelica Manfroi,14/01/15 10:33 AM,027,"""Feminino""",32,"""Masculino""",3,"""1""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-71,Angelica Manfroi,14/01/15 10:58 AM,028,"""Feminino""",75,"""Feminino""",10,"""3""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-72,Angelica Manfroi,14/01/15 11:19 AM,029,"""Feminino""",23,"""Feminino""",6,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-73,Angelica Manfroi,14/01/15 11:38 AM,030,"""Masculino""",41,"""Masculino""",5,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-74,Angelica Manfroi,14/01/15 02:00 PM,031,"""Feminino""",35,"""Feminino""",4,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-75,Caio Morcelli,14/01/15 02:09 PM,05,"""Feminino""",30,"""Masculino""",0,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-76,Caio Morcelli,14/01/15 02:33 PM,6,"""Feminino""",20,"""Masculino""",2,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-77,Angelica Manfroi,14/01/15 02:38 PM,032,"""Feminino""",21,"""Masculino""",2,"""1""","""0""","""1""","""2""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-78,Angelica Manfroi,14/01/15 02:59 PM,033,"""Feminino""",36,"""Feminino""",11,"""2""","""0""","""1""","""0""","""0""","""0""","""0""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-79,Caio Morcelli,14/01/15 03:01 PM,7,"""Feminino""",32,"""Feminino""",1,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-80,Angelica Manfroi,14/01/15 03:14 PM,034,"""Feminino""",33,"""Feminino""",5,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-81,Caio Morcelli,14/01/15 03:17 PM,8,"""Feminino""",38,"""Feminino""",8,"""3""","""2""","""2""","""2""","""0""","""1""","""1""","""2""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-82,Caio Morcelli,14/01/15 03:34 PM,9,"""Feminino""",58,"""Feminino""",1,"""3""","""2""","""1""","""0""","""0""","""2""","""2""","""2""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-83,Angelica Manfroi,14/01/15 03:46 PM,035,"""Feminino""",23,"""Feminino""",1,"""2""","""1""","""1""","""1""","""0""","""1""","""3""","""2""","""0""","""Superior completo (Superior completo)"""
-84,Anna Carolina Alves,16/01/15 10:47 AM,18,"""Feminino""",22,"""Feminino""",5,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-85,Jacqueline Maximiano Conceicao,16/01/15 10:49 AM,22,"""Feminino""",34,"""Masculino""",1,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-86,Anna Carolina Alves,16/01/15 11:02 AM,19,"""Feminino""",34,"""Masculino""",1,"""4 ou +""","""2""","""3""","""1""","""0""","""1""","""1""","""2""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-87,Jacqueline Maximiano Conceicao,16/01/15 11:03 AM,23,"""Feminino""",28,"""Masculino""",0,"""3""","""1""","""2""","""0""","""0""","""0""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-88,Jacqueline Maximiano Conceicao,16/01/15 11:12 AM,24,"""Feminino""",28,"""Feminino""",3,"""3""","""1""","""1""","""0""","""0""","""0""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-89,Anna Carolina Alves,16/01/15 11:26 AM,20,"""Feminino""",32,"""Feminino""",1,"""2""","""1""","""1""","""3""","""1""","""1""","""1""","""1""","""0""","""Superior completo (Superior completo)"""
-90,Jacqueline Maximiano Conceicao,16/01/15 11:41 AM,25,"""Feminino""",39,"""Masculino""",12,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-91,Anna Carolina Alves,16/01/15 11:42 AM,21,"""Feminino""",38,"""Masculino""",3,"""2""","""1""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Superior completo (Superior completo)"""
-92,Jacqueline Maximiano Conceicao,16/01/15 11:52 AM,26,"""Feminino""",32,"""Masculino""",3,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Superior completo (Superior completo)"""
-93,Anna Carolina Alves,16/01/15 12:05 PM,22,"""Feminino""",24,"""Feminino""",9,"""0""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-94,Jacqueline Maximiano Conceicao,19/01/15 09:50 AM,27,"""Feminino""",31,"""Masculino""",2,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-95,Jacqueline Maximiano Conceicao,19/01/15 10:03 AM,28,"""Feminino""",37,"""Feminino""",12,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-96,Jacqueline Maximiano Conceicao,19/01/15 10:11 AM,29,"""Feminino""",37,"""Masculino""",6,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-97,Jacqueline Maximiano Conceicao,19/01/15 10:21 AM,30,"""Feminino""",17,"""Masculino""",2,"""1""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-98,Jacqueline Maximiano Conceicao,19/01/15 10:47 AM,31,"""Feminino""",30,"""Feminino""",5,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-99,Jacqueline Maximiano Conceicao,19/01/15 11:09 AM,32,"""Feminino""",25,"""Feminino""",5,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-100,Jacqueline Maximiano Conceicao,19/01/15 11:21 AM,33,"""Feminino""",29,"""Feminino""",4,"""1""","""1""","""1""","""2""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-101,Jacqueline Maximiano Conceicao,19/01/15 11:36 AM,34,"""Masculino""",30,"""Masculino""",2,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-102,Jacqueline Maximiano Conceicao,19/01/15 12:05 PM,35,"""Feminino""",19,"""Feminino""",1,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-103,Jacqueline Maximiano Conceicao,19/01/15 12:23 PM,36,"""Feminino""",21,"""Masculino""",0,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-104,Caio Morcelli,19/01/15 01:18 PM,10,"""Feminino""",19,"""Feminino""",4,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-105,Caio Morcelli,19/01/15 01:40 PM,11,"""Feminino""",26,"""Masculino""",6,"""2""","""0""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Superior completo (Superior completo)"""
-106,Caio Morcelli,19/01/15 02:14 PM,12,"""Feminino""",44,"""Masculino""",2,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-107,Caio Morcelli,19/01/15 03:16 PM,13,"""Feminino""",25,"""Feminino""",2,"""1""","""1""","""1""","""0""","""0""","""1""","""0""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-108,Caio Morcelli,19/01/15 04:05 PM,14,"""Feminino""",39,"""Feminino""",1,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-109,Jacqueline Maximiano Conceicao,20/01/15 10:45 AM,37,"""Feminino""",38,"""Masculino""",5,"""1""","""1""","""1""","""0""","""0""","""0""","""0""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-110,Jacqueline Maximiano Conceicao,20/01/15 10:53 AM,38,"""Feminino""",33,"""Feminino""",2,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-111,Jacqueline Maximiano Conceicao,20/01/15 11:04 AM,39,"""Feminino""",32,"""Masculino""",1,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Superior completo (Superior completo)"""
-112,Jacqueline Maximiano Conceicao,20/01/15 11:20 AM,40,"""Feminino""",19,"""Masculino""",2,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-113,Jacqueline Maximiano Conceicao,20/01/15 11:35 AM,41,"""Feminino""",20,"""Feminino""",0,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-114,Jacqueline Maximiano Conceicao,20/01/15 11:44 AM,42,"""Feminino""",22,"""Masculino""",1,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-115,Jacqueline Maximiano Conceicao,20/01/15 11:56 AM,43,"""Feminino""",37,"""Feminino""",0,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-116,Jacqueline Maximiano Conceicao,20/01/15 12:14 PM,44,"""Feminino""",34,"""Masculino""",4,"""2""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-117,Jacqueline Maximiano Conceicao,20/01/15 12:31 PM,45,"""Feminino""",26,"""Masculino""",0,"""1""","""0""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-118,Jacqueline Maximiano Conceicao,20/01/15 12:53 PM,46,"""Feminino""",20,"""Feminino""",2,"""1""","""1""","""0""","""0""","""0""","""0""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-119,Caio Morcelli,20/01/15 01:53 PM,15,"""Feminino""",27,"""Feminino""",6,"""1""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-120,Caio Morcelli,20/01/15 02:13 PM,16,"""Feminino""",30,"""Masculino""",6,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-121,Caio Morcelli,20/01/15 02:28 PM,17,"""Feminino""",20,"""Masculino""",1,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-122,Caio Morcelli,20/01/15 02:55 PM,18,"""Feminino""",25,"""Feminino""",7,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-123,Caio Morcelli,20/01/15 03:26 PM,19,"""Feminino""",58,"""Feminino""",8,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-124,Caio Morcelli,20/01/15 03:53 PM,20,"""Feminino""",39,"""Masculino""",8,"""2""","""1""","""1""","""0""","""1""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-125,Caio Morcelli,20/01/15 04:10 PM,21,"""Feminino""",19,"""Masculino""",0,"""3""","""1""","""1""","""0""","""0""","""1""","""3""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-126,Anna Carolina Alves,21/01/15 09:59 AM,23,"""Feminino""",27,"""Feminino""",1,"""2""","""2""","""1""","""1""","""0""","""1""","""2""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-127,Anna Carolina Alves,21/01/15 10:10 AM,24,"""Feminino""",28,"""Masculino""",7,"""2""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-128,Anna Carolina Alves,21/01/15 10:26 AM,25,"""Feminino""",35,"""Masculino""",6,"""2""","""0""","""3""","""0""","""0""","""0""","""1""","""2""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-129,Anna Carolina Alves,21/01/15 10:54 AM,26,"""Feminino""",32,"""Feminino""",1,"""3""","""1""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-130,Anna Carolina Alves,21/01/15 11:06 AM,27,"""Feminino""",27,"""Masculino""",3,"""2""","""0""","""1""","""1""","""1""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-131,Anna Carolina Alves,21/01/15 11:23 AM,28,"""Feminino""",26,"""Masculino""",2,"""2""","""4 ou +""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-132,Angelica Manfroi,21/01/15 01:34 PM,036,"""Feminino""",32,"""Masculino""",5,"""1""","""1""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Analfabeto / Primário incompleto (Analfabeto ou até 3a. Série do Fundamental) """
-133,Angelica Manfroi,21/01/15 01:51 PM,037,"""Feminino""",24,"""Feminino""",8,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-134,Angelica Manfroi,21/01/15 02:11 PM,038,"""Feminino""",26,"""Feminino""",3,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-135,Caio Morcelli,21/01/15 02:29 PM,22,"""Feminino""",19,"""Feminino""",2,"""0""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-136,Angelica Manfroi,21/01/15 02:50 PM,039,"""Feminino""",35,"""Masculino""",11,"""2""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-137,Caio Morcelli,21/01/15 03:05 PM,23,"""Feminino""",33,"""Feminino""",8,"""2""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-138,Angelica Manfroi,21/01/15 03:11 PM,040,"""Feminino""",22,"""Feminino""",0,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-139,Angelica Manfroi,21/01/15 03:23 PM,041,"""Feminino""",31,"""Feminino""",0,"""2""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-140,Caio Morcelli,21/01/15 03:44 PM,24,"""Feminino""",28,"""Masculino""",7,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-141,Caio Morcelli,21/01/15 04:02 PM,25,"""Feminino""",33,"""Masculino""",0,"""3""","""1""","""2""","""1""","""0""","""2""","""2""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-142,Anna Carolina Alves,22/01/15 02:37 PM,29,"""Feminino""",22,"""Masculino""",1,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-143,Anna Carolina Alves,22/01/15 02:48 PM,30,"""Feminino""",25,"""Feminino""",1,"""2""","""1""","""1""","""0""","""0""","""1""","""2""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-144,Anna Carolina Alves,22/01/15 03:04 PM,31,"""Feminino""",24,"""Feminino""",3,"""3""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-145,Anna Carolina Alves,22/01/15 03:18 PM,32,"""Feminino""",21,"""Feminino""",1,"""3""","""2""","""4 ou +""","""2""","""0""","""1""","""3""","""3""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-146,Anna Carolina Alves,22/01/15 03:35 PM,33,"""Feminino""",39,"""Masculino""",5,"""3""","""1""","""2""","""0""","""0""","""1""","""2""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-147,Caio Morcelli,23/01/15 10:04 AM,26,"""Feminino""",25,"""Masculino""",2,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-148,Jacqueline Maximiano Conceicao,23/01/15 10:08 AM,57,"""Feminino""",33,"""Masculino""",8,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-149,Jacqueline Maximiano Conceicao,23/01/15 10:19 AM,58,"""Feminino""",32,"""Masculino""",1,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-150,Caio Morcelli,23/01/15 10:30 AM,27,"""Masculino""",28,"""Masculino""",0,"""1""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-151,Jacqueline Maximiano Conceicao,23/01/15 10:37 AM,59,"""Feminino""",29,"""Feminino""",0,"""1""","""1""","""1""","""1""","""0""","""0""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-152,Caio Morcelli,23/01/15 10:49 AM,28,"""Masculino""",25,"""Masculino""",5,"""2""","""1""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-153,Jacqueline Maximiano Conceicao,23/01/15 11:09 AM,60,"""Feminino""",31,"""Feminino""",4,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-154,Caio Morcelli,23/01/15 11:15 AM,29,"""Feminino""",18,"""Feminino""",1,"""1""","""1""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-155,Caio Morcelli,23/01/15 11:34 AM,30,"""Feminino""",30,"""Masculino""",8,"""1""","""1""","""1""","""1""","""0""","""1""","""2""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-156,Jacqueline Maximiano Conceicao,23/01/15 11:39 AM,61,"""Feminino""",23,"""Feminino""",0,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-157,Jacqueline Maximiano Conceicao,23/01/15 12:04 PM,62,"""Feminino""",20,"""Feminino""",0,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-158,Jacqueline Maximiano Conceicao,23/01/15 12:09 PM,63,"""Feminino""",34,"""Feminino""",2,"""1""","""1""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-159,Jacqueline Maximiano Conceicao,23/01/15 12:26 PM,64,"""Feminino""",22,"""Feminino""",0,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-160,Angelica Manfroi,23/01/15 12:29 PM,042,"""Feminino""",43,"""Feminino""",5,"""3""","""1""","""1""","""4 ou +""","""0""","""1""","""1""","""2""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-161,Angelica Manfroi,23/01/15 12:46 PM,043,"""Feminino""",28,"""Feminino""",5,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-162,Angelica Manfroi,23/01/15 01:11 PM,044,"""Feminino""",28,"""Masculino""",6,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-163,Angelica Manfroi,23/01/15 01:38 PM,045,"""Feminino""",33,"""Masculino""",1,"""2""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-164,Angelica Manfroi,23/01/15 01:57 PM,046,"""Feminino""",40,"""Feminino""",10,"""2""","""1""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-165,Angelica Manfroi,23/01/15 02:21 PM,047,"""Feminino""",60,"""Masculino""",11,"""1""","""0""","""1""","""1""","""0""","""0""","""0""","""2""","""1""","""Analfabeto / Primário incompleto (Analfabeto ou até 3a. Série do Fundamental) """
-166,Angelica Manfroi,23/01/15 02:42 PM,048,"""Feminino""",30,"""Feminino""",8,"""2""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""1""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-167,Anna Carolina Alves,26/01/15 10:57 AM,34,"""Feminino""",34,"""Masculino""",4,"""2""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-168,Anna Carolina Alves,26/01/15 11:19 AM,35,"""Feminino""",35,"""Feminino""",2,"""1""","""2""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-169,Anna Carolina Alves,26/01/15 11:30 AM,36,"""Feminino""",31,"""Feminino""",1,"""1""","""1""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-170,Caio Morcelli,26/01/15 02:11 PM,31,"""Feminino""",26,"""Masculino""",5,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-171,Caio Morcelli,26/01/15 02:47 PM,32,"""Feminino""",28,"""Feminino""",4,"""2""","""0""","""1""","""0""","""0""","""0""","""0""","""1""","""1""","""Colegial completo / Superior incompleto (Médio completo)"""
-172,Caio Morcelli,26/01/15 03:06 PM,33,"""Feminino""",35,"""Feminino""",1,"""2""","""1""","""2""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-173,Caio Morcelli,26/01/15 03:27 PM,34,"""Feminino""",46,"""Masculino""",10,"""3""","""1""","""2""","""1""","""0""","""1""","""2""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-174,Caio Morcelli,26/01/15 03:47 PM,35,"""Feminino""",18,"""Feminino""",3,"""3""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-175,Caio Morcelli,26/01/15 04:31 PM,36,"""Feminino""",37,"""Feminino""",5,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-176,Caio Morcelli,26/01/15 04:51 PM,37,"""Feminino""",29,"""Feminino""",1,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-177,Caio Morcelli,26/01/15 05:08 PM,38,"""Feminino""",32,"""Feminino""",5,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-178,Angelica Manfroi,27/01/15 08:53 AM,049,"""Feminino""",18,"""Masculino""",0,"""2""","""1""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-179,Angelica Manfroi,27/01/15 09:17 AM,050,"""Feminino""",29,"""Masculino""",0,"""3""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-180,Angelica Manfroi,27/01/15 09:40 AM,051,"""Feminino""",33,"""Masculino""",9,"""3""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-181,Angelica Manfroi,27/01/15 09:59 AM,052,"""Feminino""",53,"""Feminino""",1,"""3""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-182,Caio Morcelli,28/01/15 03:07 PM,39,"""Masculino""",27,"""Feminino""",4,"""2""","""3""","""1""","""1""","""0""","""2""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-183,Caio Morcelli,28/01/15 03:22 PM,40,"""Feminino""",38,"""Feminino""",9,"""1""","""0""","""1""","""0""","""0""","""0""","""0""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-184,Anna Carolina Alves,29/01/15 11:54 AM,37,"""Feminino""",51,"""Feminino""",6,"""2""","""1""","""2""","""2""","""0""","""2""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-185,Anna Carolina Alves,29/01/15 12:10 PM,38,"""Feminino""",25,"""Masculino""",3,"""1""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-186,Anna Carolina Alves,29/01/15 12:25 PM,39,"""Feminino""",19,"""Masculino""",3,"""2""","""1""","""1""","""0""","""0""","""1""","""2""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-187,Anna Carolina Alves,29/01/15 12:41 PM,40,"""Feminino""",20,"""Feminino""",1,"""2""","""1""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-188,Anna Carolina Alves,29/01/15 01:00 PM,41,"""Feminino""",23,"""Masculino""",4,"""2""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-189,Caio Morcelli,29/01/15 01:13 PM,41,"""Feminino""",36,"""Masculino""",3,"""1""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-190,Caio Morcelli,29/01/15 01:30 PM,42,"""Feminino""",18,"""Feminino""",2,"""2""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-191,Caio Morcelli,29/01/15 02:00 PM,43,"""Feminino""",16,"""Masculino""",4,"""4 ou +""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""1""","""Analfabeto / Primário incompleto (Analfabeto ou até 3a. Série do Fundamental) """
-192,Caio Morcelli,29/01/15 02:59 PM,44,"""Feminino""",40,"""Feminino""",6,"""2""","""0""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-193,Caio Morcelli,29/01/15 03:19 PM,45,"""Feminino""",18,"""Feminino""",3,"""1""","""0""","""1""","""0""","""0""","""0""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-194,Caio Morcelli,29/01/15 03:34 PM,46,"""Feminino""",29,"""Feminino""",2,"""1""","""0""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-195,Caio Morcelli,29/01/15 03:54 PM,47,"""Masculino""",25,"""Feminino""",1,"""1""","""0""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-196,Caio Morcelli,29/01/15 04:30 PM,48,"""Feminino""",25,"""Feminino""",4,"""3""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-197,Jacqueline Maximiano Conceicao,30/01/15 10:02 AM,65,"""Feminino""",34,"""Feminino""",3,"""1""","""1""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-198,Anna Carolina Alves,30/01/15 10:08 AM,42,"""Feminino""",40,"""Masculino""",7,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-199,Caio Morcelli,30/01/15 10:11 AM,49,"""Feminino""",55,"""Masculino""",3,"""2""","""0""","""1""","""0""","""0""","""1""","""2""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-200,Anna Carolina Alves,30/01/15 10:26 AM,43,"""Feminino""",28,"""Feminino""",1,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-201,Caio Morcelli,30/01/15 10:28 AM,50,"""Feminino""",31,"""Masculino""",5,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-202,Anna Carolina Alves,30/01/15 10:40 AM,44,"""Feminino""",36,"""Masculino""",4,"""3""","""0""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-203,Caio Morcelli,30/01/15 10:45 AM,51,"""Feminino""",50,"""Feminino""",0,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Ginasial completo / Colegial incompleto (Fundamental completo) """
-204,Anna Carolina Alves,30/01/15 10:56 AM,45,"""Feminino""",27,"""Masculino""",2,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-205,Caio Morcelli,30/01/15 11:06 AM,52,"""Feminino""",20,"""Masculino""",2,"""1""","""0""","""1""","""0""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-206,Anna Carolina Alves,30/01/15 11:10 AM,46,"""Feminino""",41,"""Feminino""",6,"""2""","""1""","""1""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-207,Anna Carolina Alves,30/01/15 11:41 AM,47,"""Masculino""",41,"""Masculino""",2,"""1""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-208,Anna Carolina Alves,30/01/15 12:06 PM,48,"""Feminino""",31,"""Masculino""",7,"""1""","""1""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-209,Anna Carolina Alves,30/01/15 12:18 PM,49,"""Feminino""",24,"""Feminino""",4,"""2""","""1""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-210,Anna Carolina Alves,30/01/15 12:40 PM,50,"""Feminino""",46,"""Masculino""",3,"""0""","""0""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-211,Anna Carolina Alves,30/01/15 12:56 PM,51,"""Feminino""",32,"""Masculino""",9,"""1""","""2""","""1""","""1""","""0""","""1""","""0""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-212,Anna Carolina Alves,30/01/15 01:10 PM,52,"""Feminino""",30,"""Feminino""",5,"""1""","""0""","""1""","""0""","""0""","""0""","""1""","""0""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-213,Anna Carolina Alves,30/01/15 01:25 PM,53,"""Feminino""",38,"""Feminino""",1,"""2""","""2""","""2""","""1""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
-214,Anna Carolina Alves,30/01/15 01:41 PM,54,"""Feminino""",26,"""Feminino""",1,"""4 ou +""","""1""","""1""","""0""","""0""","""1""","""3""","""1""","""0""","""Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)"""
-215,Anna Carolina Alves,30/01/15 02:10 PM,54,"""Feminino""",28,"""Feminino""",1,"""1""","""0""","""1""","""0""","""0""","""1""","""1""","""1""","""0""","""Colegial completo / Superior incompleto (Médio completo)"""
+1,Diego Silva,10/12/14 09:46 AM,12,Masculino,12,Masculino,85,3,3,4 ou +,2,4 ou +,2,3,3,4 ou +,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+2,Jacqueline Maximiano Conceicao,18/12/14 11:50 AM,1,Feminino,35,Masculino,1,1,1,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+3,Anna Carolina Alves,22/12/14 12:31 PM,01,Feminino,46,Masculino,5,2,1,2,1,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+4,Anna Carolina Alves,22/12/14 12:45 PM,02,Feminino,45,Feminino,4,2,1,1,2,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+5,Anna Carolina Alves,22/12/14 12:57 PM,03,Feminino,33,Masculino,8,2,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+6,Anna Carolina Alves,22/12/14 01:12 PM,04,Feminino,34,Feminino,5,2,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+7,Anna Carolina Alves,22/12/14 01:25 PM,05,Feminino,21,Masculino,2,1,1,1,1,0,0,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+8,Anna Carolina Alves,22/12/14 01:43 PM,06,Masculino,38,Feminino,9,1,0,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+9,Anna Carolina Alves,22/12/14 01:56 PM,07,Feminino,37,Feminino,11,2,2,1,0,0,1,1,0,0,Superior completo (Superior completo)
+10,Jacqueline Maximiano Conceicao,06/01/15 09:02 AM,2,Feminino,353,Masculino,3,1,1,1,0,0,0,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+11,Jacqueline Maximiano Conceicao,06/01/15 09:24 AM,3,Feminino,25,Feminino,4,2,0,1,0,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+12,Jacqueline Maximiano Conceicao,06/01/15 10:02 AM,4,Feminino,28,Masculino,2,1,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+13,Jacqueline Maximiano Conceicao,06/01/15 10:58 AM,5,Feminino,30,Masculino,6,1,1,1,0,0,1,1,1,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+14,Jacqueline Maximiano Conceicao,06/01/15 11:08 AM,6,Feminino,28,Masculino,1,1,2,1,1,0,1,1,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+15,Angelica Manfroi,07/01/15 09:26 AM,001,Feminino,33,Feminino,7,1,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+16,Angelica Manfroi,07/01/15 09:48 AM,002,Masculino,26,Feminino,4,3,2,2,2,0,2,2,2,2,Superior completo (Superior completo)
+17,Angelica Manfroi,07/01/15 10:11 AM,003,Feminino,30,Feminino,0,1,1,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+18,Angelica Manfroi,07/01/15 10:30 AM,004,Feminino,27,Masculino,1,4 ou +,1,1,1,0,1,2,1,0,Colegial completo / Superior incompleto (Médio completo)
+19,Angelica Manfroi,07/01/15 11:07 AM,005,Feminino,36,Masculino,8,1,1,2,1,0,1,0,1,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+20,Jacqueline Maximiano Conceicao,07/01/15 11:32 AM,7,Feminino,23,Masculino,2,1,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+21,Jacqueline Maximiano Conceicao,07/01/15 12:00 PM,8,Masculino,33,Feminino,2,1,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+22,Jacqueline Maximiano Conceicao,07/01/15 12:20 PM,9,Feminino,20,Feminino,1,2,1,1,0,0,1,1,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+23,Anna Carolina Alves,07/01/15 12:30 PM,08,Feminino,49,Masculino,1,1,1,2,1,0,0,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+24,Jacqueline Maximiano Conceicao,07/01/15 12:39 PM,10,Masculino,29,Feminino,3,1,1,1,1,0,0,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+25,Anna Carolina Alves,07/01/15 12:48 PM,9,Feminino,25,Feminino,6,1,0,1,1,0,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+26,Jacqueline Maximiano Conceicao,07/01/15 01:01 PM,11,Feminino,34,Masculino,7,2,1,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+27,Anna Carolina Alves,07/01/15 01:03 PM,10,Feminino,44,Feminino,7,1,0,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+28,Anna Carolina Alves,07/01/15 01:19 PM,11,Feminino,23,Feminino,3,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+29,Anna Carolina Alves,07/01/15 01:38 PM,12,Feminino,32,Masculino,1,2,1,1,1,0,0,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+30,Caio Morcelli,07/01/15 03:05 PM,1,Feminino,32,Masculino,2,3,1,2,0,0,1,1,2,1,Colegial completo / Superior incompleto (Médio completo)
+31,Caio Morcelli,07/01/15 03:33 PM,2,Feminino,38,Masculino,2,1,1,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+32,Caio Morcelli,07/01/15 03:55 PM,3,Masculino,34,Feminino,3,1,0,1,1,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+33,Angelica Manfroi,08/01/15 09:18 AM,006,Feminino,26,Feminino,1,1,1,1,0,0,1,1,1,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+34,Angelica Manfroi,08/01/15 09:42 AM,007,Feminino,24,Masculino,1,1,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+35,Jacqueline Maximiano Conceicao,08/01/15 09:43 AM,12,Feminino,26,Feminino,3,1,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+36,Jacqueline Maximiano Conceicao,08/01/15 10:07 AM,13,Feminino,42,Masculino,4,1,1,1,0,0,1,1,1,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+37,Angelica Manfroi,08/01/15 10:30 AM,008,Feminino,38,Feminino,7,1,0,1,1,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+38,Jacqueline Maximiano Conceicao,08/01/15 10:35 AM,14,Feminino,316,Masculino,6,1,0,1,0,0,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+39,Angelica Manfroi,08/01/15 10:56 AM,009,Feminino,27,Feminino,5,3,1,1,1,0,1,1,2,0,Colegial completo / Superior incompleto (Médio completo)
+40,Jacqueline Maximiano Conceicao,08/01/15 10:58 AM,15,Feminino,25,Feminino,4,1,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+41,Angelica Manfroi,08/01/15 11:23 AM,010,Feminino,22,Feminino,4,1,0,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+42,Jacqueline Maximiano Conceicao,08/01/15 11:24 AM,16,Feminino,19,Masculino,2,1,1,1,0,0,0,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+43,Jacqueline Maximiano Conceicao,09/01/15 09:25 AM,17,Feminino,54,Feminino,5,1,1,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+44,Angelica Manfroi,09/01/15 09:49 AM,011,Feminino,37,Masculino,2,1,0,1,0,0,0,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+45,Jacqueline Maximiano Conceicao,09/01/15 09:54 AM,18,Feminino,19,Masculino,2,2,1,1,1,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+46,Angelica Manfroi,09/01/15 10:01 AM,012,Feminino,33,Masculino,7,2,0,1,0,0,0,1,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+47,Jacqueline Maximiano Conceicao,09/01/15 10:24 AM,19,Feminino,25,Feminino,4,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+48,Angelica Manfroi,09/01/15 10:25 AM,013,Feminino,27,Feminino,1,1,1,1,0,0,1,0,1,0,Analfabeto / Primário incompleto (Analfabeto ou até 3a. Série do Fundamental) 
+49,Anna Carolina Alves,09/01/15 10:29 AM,13,Feminino,18,Masculino,1,1,0,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+50,Anna Carolina Alves,09/01/15 10:44 AM,14,Feminino,35,Feminino,7,2,1,1,0,0,0,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+51,Angelica Manfroi,09/01/15 10:47 AM,014,Masculino,29,Feminino,1,1,0,4 ou +,0,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+52,Jacqueline Maximiano Conceicao,09/01/15 10:50 AM,20,Feminino,23,Masculino,3,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+53,Angelica Manfroi,09/01/15 11:02 AM,015,Feminino,28,Feminino,4,1,0,1,0,0,1,1,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+54,Anna Carolina Alves,09/01/15 11:07 AM,15,Feminino,31,Masculino,3,2,1,1,0,0,0,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+55,Jacqueline Maximiano Conceicao,09/01/15 11:10 AM,21,Feminino,28,Masculino,0,1,0,1,0,0,0,0,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+56,Anna Carolina Alves,09/01/15 11:17 AM,16,Masculino,23,Masculino,1,2,1,1,1,0,0,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+57,Anna Carolina Alves,09/01/15 11:35 AM,17,Feminino,36,Feminino,3,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+58,Angelica Manfroi,12/01/15 10:25 AM,016,Feminino,32,Feminino,0,2,0,1,0,0,0,0,0,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+59,Angelica Manfroi,12/01/15 10:44 AM,017,Feminino,38,Feminino,5,1,0,3,0,0,1,1,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+60,Angelica Manfroi,12/01/15 11:13 AM,018,Feminino,37,Feminino,4,2,1,1,1,0,1,1,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+61,Angelica Manfroi,12/01/15 11:32 AM,019,Feminino,23,Masculino,1,2,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+62,Angelica Manfroi,12/01/15 11:48 AM,020,Feminino,32,Masculino,2,1,0,1,0,0,1,0,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+63,Caio Morcelli,13/01/15 10:17 AM,4,Masculino,24,Feminino,9,2,1,1,0,0,0,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+64,Angelica Manfroi,13/01/15 12:49 PM,021,Feminino,30,Feminino,2,1,1,1,1,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+65,Angelica Manfroi,13/01/15 01:31 PM,022,Masculino,42,Feminino,2,2,1,1,1,0,1,1,1,4 ou +,Ginasial completo / Colegial incompleto (Fundamental completo) 
+66,Angelica Manfroi,13/01/15 01:54 PM,023,Feminino,29,Masculino,2,1,0,1,1,0,1,0,1,1,Colegial completo / Superior incompleto (Médio completo)
+67,Angelica Manfroi,13/01/15 02:22 PM,024,Feminino,19,Feminino,3,1,1,1,0,0,0,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+68,Angelica Manfroi,13/01/15 02:39 PM,025,Feminino,32,Masculino,4,2,0,2,1,0,1,0,1,1,Superior completo (Superior completo)
+69,Angelica Manfroi,14/01/15 10:10 AM,026,Feminino,39,Feminino,8,1,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+70,Angelica Manfroi,14/01/15 10:33 AM,027,Feminino,32,Masculino,3,1,1,1,0,0,0,1,1,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+71,Angelica Manfroi,14/01/15 10:58 AM,028,Feminino,75,Feminino,10,3,1,1,0,0,0,1,1,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+72,Angelica Manfroi,14/01/15 11:19 AM,029,Feminino,23,Feminino,6,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+73,Angelica Manfroi,14/01/15 11:38 AM,030,Masculino,41,Masculino,5,2,1,1,1,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+74,Angelica Manfroi,14/01/15 02:00 PM,031,Feminino,35,Feminino,4,2,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+75,Caio Morcelli,14/01/15 02:09 PM,05,Feminino,30,Masculino,0,1,0,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+76,Caio Morcelli,14/01/15 02:33 PM,6,Feminino,20,Masculino,2,2,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+77,Angelica Manfroi,14/01/15 02:38 PM,032,Feminino,21,Masculino,2,1,0,1,2,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+78,Angelica Manfroi,14/01/15 02:59 PM,033,Feminino,36,Feminino,11,2,0,1,0,0,0,0,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+79,Caio Morcelli,14/01/15 03:01 PM,7,Feminino,32,Feminino,1,1,0,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+80,Angelica Manfroi,14/01/15 03:14 PM,034,Feminino,33,Feminino,5,1,0,1,0,0,1,1,1,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+81,Caio Morcelli,14/01/15 03:17 PM,8,Feminino,38,Feminino,8,3,2,2,2,0,1,1,2,0,Colegial completo / Superior incompleto (Médio completo)
+82,Caio Morcelli,14/01/15 03:34 PM,9,Feminino,58,Feminino,1,3,2,1,0,0,2,2,2,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+83,Angelica Manfroi,14/01/15 03:46 PM,035,Feminino,23,Feminino,1,2,1,1,1,0,1,3,2,0,Superior completo (Superior completo)
+84,Anna Carolina Alves,16/01/15 10:47 AM,18,Feminino,22,Feminino,5,1,0,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+85,Jacqueline Maximiano Conceicao,16/01/15 10:49 AM,22,Feminino,34,Masculino,1,2,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+86,Anna Carolina Alves,16/01/15 11:02 AM,19,Feminino,34,Masculino,1,4 ou +,2,3,1,0,1,1,2,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+87,Jacqueline Maximiano Conceicao,16/01/15 11:03 AM,23,Feminino,28,Masculino,0,3,1,2,0,0,0,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+88,Jacqueline Maximiano Conceicao,16/01/15 11:12 AM,24,Feminino,28,Feminino,3,3,1,1,0,0,0,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+89,Anna Carolina Alves,16/01/15 11:26 AM,20,Feminino,32,Feminino,1,2,1,1,3,1,1,1,1,0,Superior completo (Superior completo)
+90,Jacqueline Maximiano Conceicao,16/01/15 11:41 AM,25,Feminino,39,Masculino,12,1,1,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+91,Anna Carolina Alves,16/01/15 11:42 AM,21,Feminino,38,Masculino,3,2,1,2,1,0,1,1,1,0,Superior completo (Superior completo)
+92,Jacqueline Maximiano Conceicao,16/01/15 11:52 AM,26,Feminino,32,Masculino,3,1,1,1,1,0,1,1,1,0,Superior completo (Superior completo)
+93,Anna Carolina Alves,16/01/15 12:05 PM,22,Feminino,24,Feminino,9,0,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+94,Jacqueline Maximiano Conceicao,19/01/15 09:50 AM,27,Feminino,31,Masculino,2,1,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+95,Jacqueline Maximiano Conceicao,19/01/15 10:03 AM,28,Feminino,37,Feminino,12,1,1,1,0,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+96,Jacqueline Maximiano Conceicao,19/01/15 10:11 AM,29,Feminino,37,Masculino,6,1,1,1,1,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+97,Jacqueline Maximiano Conceicao,19/01/15 10:21 AM,30,Feminino,17,Masculino,2,1,1,1,0,0,0,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+98,Jacqueline Maximiano Conceicao,19/01/15 10:47 AM,31,Feminino,30,Feminino,5,1,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+99,Jacqueline Maximiano Conceicao,19/01/15 11:09 AM,32,Feminino,25,Feminino,5,1,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+100,Jacqueline Maximiano Conceicao,19/01/15 11:21 AM,33,Feminino,29,Feminino,4,1,1,1,2,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+101,Jacqueline Maximiano Conceicao,19/01/15 11:36 AM,34,Masculino,30,Masculino,2,1,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+102,Jacqueline Maximiano Conceicao,19/01/15 12:05 PM,35,Feminino,19,Feminino,1,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+103,Jacqueline Maximiano Conceicao,19/01/15 12:23 PM,36,Feminino,21,Masculino,0,1,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+104,Caio Morcelli,19/01/15 01:18 PM,10,Feminino,19,Feminino,4,1,1,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+105,Caio Morcelli,19/01/15 01:40 PM,11,Feminino,26,Masculino,6,2,0,1,0,0,0,1,1,0,Superior completo (Superior completo)
+106,Caio Morcelli,19/01/15 02:14 PM,12,Feminino,44,Masculino,2,1,0,1,0,0,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+107,Caio Morcelli,19/01/15 03:16 PM,13,Feminino,25,Feminino,2,1,1,1,0,0,1,0,1,1,Colegial completo / Superior incompleto (Médio completo)
+108,Caio Morcelli,19/01/15 04:05 PM,14,Feminino,39,Feminino,1,1,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+109,Jacqueline Maximiano Conceicao,20/01/15 10:45 AM,37,Feminino,38,Masculino,5,1,1,1,0,0,0,0,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+110,Jacqueline Maximiano Conceicao,20/01/15 10:53 AM,38,Feminino,33,Feminino,2,1,1,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+111,Jacqueline Maximiano Conceicao,20/01/15 11:04 AM,39,Feminino,32,Masculino,1,1,1,1,1,0,1,1,1,0,Superior completo (Superior completo)
+112,Jacqueline Maximiano Conceicao,20/01/15 11:20 AM,40,Feminino,19,Masculino,2,1,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+113,Jacqueline Maximiano Conceicao,20/01/15 11:35 AM,41,Feminino,20,Feminino,0,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+114,Jacqueline Maximiano Conceicao,20/01/15 11:44 AM,42,Feminino,22,Masculino,1,1,1,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+115,Jacqueline Maximiano Conceicao,20/01/15 11:56 AM,43,Feminino,37,Feminino,0,1,1,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+116,Jacqueline Maximiano Conceicao,20/01/15 12:14 PM,44,Feminino,34,Masculino,4,2,0,1,0,0,1,0,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+117,Jacqueline Maximiano Conceicao,20/01/15 12:31 PM,45,Feminino,26,Masculino,0,1,0,2,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+118,Jacqueline Maximiano Conceicao,20/01/15 12:53 PM,46,Feminino,20,Feminino,2,1,1,0,0,0,0,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+119,Caio Morcelli,20/01/15 01:53 PM,15,Feminino,27,Feminino,6,1,0,1,1,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+120,Caio Morcelli,20/01/15 02:13 PM,16,Feminino,30,Masculino,6,2,1,1,1,0,1,1,1,1,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+121,Caio Morcelli,20/01/15 02:28 PM,17,Feminino,20,Masculino,1,2,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+122,Caio Morcelli,20/01/15 02:55 PM,18,Feminino,25,Feminino,7,1,1,1,0,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+123,Caio Morcelli,20/01/15 03:26 PM,19,Feminino,58,Feminino,8,1,1,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+124,Caio Morcelli,20/01/15 03:53 PM,20,Feminino,39,Masculino,8,2,1,1,0,1,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+125,Caio Morcelli,20/01/15 04:10 PM,21,Feminino,19,Masculino,0,3,1,1,0,0,1,3,1,0,Colegial completo / Superior incompleto (Médio completo)
+126,Anna Carolina Alves,21/01/15 09:59 AM,23,Feminino,27,Feminino,1,2,2,1,1,0,1,2,1,0,Colegial completo / Superior incompleto (Médio completo)
+127,Anna Carolina Alves,21/01/15 10:10 AM,24,Feminino,28,Masculino,7,2,0,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+128,Anna Carolina Alves,21/01/15 10:26 AM,25,Feminino,35,Masculino,6,2,0,3,0,0,0,1,2,0,Colegial completo / Superior incompleto (Médio completo)
+129,Anna Carolina Alves,21/01/15 10:54 AM,26,Feminino,32,Feminino,1,3,1,2,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+130,Anna Carolina Alves,21/01/15 11:06 AM,27,Feminino,27,Masculino,3,2,0,1,1,1,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+131,Anna Carolina Alves,21/01/15 11:23 AM,28,Feminino,26,Masculino,2,2,4 ou +,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+132,Angelica Manfroi,21/01/15 01:34 PM,036,Feminino,32,Masculino,5,1,1,1,0,0,1,0,1,0,Analfabeto / Primário incompleto (Analfabeto ou até 3a. Série do Fundamental) 
+133,Angelica Manfroi,21/01/15 01:51 PM,037,Feminino,24,Feminino,8,2,1,1,1,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+134,Angelica Manfroi,21/01/15 02:11 PM,038,Feminino,26,Feminino,3,1,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+135,Caio Morcelli,21/01/15 02:29 PM,22,Feminino,19,Feminino,2,0,0,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+136,Angelica Manfroi,21/01/15 02:50 PM,039,Feminino,35,Masculino,11,2,0,1,0,0,1,1,1,1,Colegial completo / Superior incompleto (Médio completo)
+137,Caio Morcelli,21/01/15 03:05 PM,23,Feminino,33,Feminino,8,2,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+138,Angelica Manfroi,21/01/15 03:11 PM,040,Feminino,22,Feminino,0,1,0,1,0,0,1,0,1,1,Colegial completo / Superior incompleto (Médio completo)
+139,Angelica Manfroi,21/01/15 03:23 PM,041,Feminino,31,Feminino,0,2,0,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+140,Caio Morcelli,21/01/15 03:44 PM,24,Feminino,28,Masculino,7,1,0,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+141,Caio Morcelli,21/01/15 04:02 PM,25,Feminino,33,Masculino,0,3,1,2,1,0,2,2,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+142,Anna Carolina Alves,22/01/15 02:37 PM,29,Feminino,22,Masculino,1,1,0,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+143,Anna Carolina Alves,22/01/15 02:48 PM,30,Feminino,25,Feminino,1,2,1,1,0,0,1,2,1,1,Colegial completo / Superior incompleto (Médio completo)
+144,Anna Carolina Alves,22/01/15 03:04 PM,31,Feminino,24,Feminino,3,3,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+145,Anna Carolina Alves,22/01/15 03:18 PM,32,Feminino,21,Feminino,1,3,2,4 ou +,2,0,1,3,3,1,Colegial completo / Superior incompleto (Médio completo)
+146,Anna Carolina Alves,22/01/15 03:35 PM,33,Feminino,39,Masculino,5,3,1,2,0,0,1,2,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+147,Caio Morcelli,23/01/15 10:04 AM,26,Feminino,25,Masculino,2,1,0,1,0,0,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+148,Jacqueline Maximiano Conceicao,23/01/15 10:08 AM,57,Feminino,33,Masculino,8,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+149,Jacqueline Maximiano Conceicao,23/01/15 10:19 AM,58,Feminino,32,Masculino,1,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+150,Caio Morcelli,23/01/15 10:30 AM,27,Masculino,28,Masculino,0,1,1,1,0,1,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+151,Jacqueline Maximiano Conceicao,23/01/15 10:37 AM,59,Feminino,29,Feminino,0,1,1,1,1,0,0,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+152,Caio Morcelli,23/01/15 10:49 AM,28,Masculino,25,Masculino,5,2,1,1,1,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+153,Jacqueline Maximiano Conceicao,23/01/15 11:09 AM,60,Feminino,31,Feminino,4,2,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+154,Caio Morcelli,23/01/15 11:15 AM,29,Feminino,18,Feminino,1,1,1,1,0,0,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+155,Caio Morcelli,23/01/15 11:34 AM,30,Feminino,30,Masculino,8,1,1,1,1,0,1,2,1,0,Colegial completo / Superior incompleto (Médio completo)
+156,Jacqueline Maximiano Conceicao,23/01/15 11:39 AM,61,Feminino,23,Feminino,0,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+157,Jacqueline Maximiano Conceicao,23/01/15 12:04 PM,62,Feminino,20,Feminino,0,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+158,Jacqueline Maximiano Conceicao,23/01/15 12:09 PM,63,Feminino,34,Feminino,2,1,1,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+159,Jacqueline Maximiano Conceicao,23/01/15 12:26 PM,64,Feminino,22,Feminino,0,1,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+160,Angelica Manfroi,23/01/15 12:29 PM,042,Feminino,43,Feminino,5,3,1,1,4 ou +,0,1,1,2,1,Colegial completo / Superior incompleto (Médio completo)
+161,Angelica Manfroi,23/01/15 12:46 PM,043,Feminino,28,Feminino,5,1,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+162,Angelica Manfroi,23/01/15 01:11 PM,044,Feminino,28,Masculino,6,2,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+163,Angelica Manfroi,23/01/15 01:38 PM,045,Feminino,33,Masculino,1,2,0,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+164,Angelica Manfroi,23/01/15 01:57 PM,046,Feminino,40,Feminino,10,2,1,2,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+165,Angelica Manfroi,23/01/15 02:21 PM,047,Feminino,60,Masculino,11,1,0,1,1,0,0,0,2,1,Analfabeto / Primário incompleto (Analfabeto ou até 3a. Série do Fundamental) 
+166,Angelica Manfroi,23/01/15 02:42 PM,048,Feminino,30,Feminino,8,2,0,1,0,0,1,0,1,1,Ginasial completo / Colegial incompleto (Fundamental completo) 
+167,Anna Carolina Alves,26/01/15 10:57 AM,34,Feminino,34,Masculino,4,2,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+168,Anna Carolina Alves,26/01/15 11:19 AM,35,Feminino,35,Feminino,2,1,2,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+169,Anna Carolina Alves,26/01/15 11:30 AM,36,Feminino,31,Feminino,1,1,1,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+170,Caio Morcelli,26/01/15 02:11 PM,31,Feminino,26,Masculino,5,1,0,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+171,Caio Morcelli,26/01/15 02:47 PM,32,Feminino,28,Feminino,4,2,0,1,0,0,0,0,1,1,Colegial completo / Superior incompleto (Médio completo)
+172,Caio Morcelli,26/01/15 03:06 PM,33,Feminino,35,Feminino,1,2,1,2,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+173,Caio Morcelli,26/01/15 03:27 PM,34,Feminino,46,Masculino,10,3,1,2,1,0,1,2,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+174,Caio Morcelli,26/01/15 03:47 PM,35,Feminino,18,Feminino,3,3,0,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+175,Caio Morcelli,26/01/15 04:31 PM,36,Feminino,37,Feminino,5,1,1,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+176,Caio Morcelli,26/01/15 04:51 PM,37,Feminino,29,Feminino,1,1,1,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+177,Caio Morcelli,26/01/15 05:08 PM,38,Feminino,32,Feminino,5,1,0,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+178,Angelica Manfroi,27/01/15 08:53 AM,049,Feminino,18,Masculino,0,2,1,1,0,0,0,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+179,Angelica Manfroi,27/01/15 09:17 AM,050,Feminino,29,Masculino,0,3,0,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+180,Angelica Manfroi,27/01/15 09:40 AM,051,Feminino,33,Masculino,9,3,1,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+181,Angelica Manfroi,27/01/15 09:59 AM,052,Feminino,53,Feminino,1,3,1,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+182,Caio Morcelli,28/01/15 03:07 PM,39,Masculino,27,Feminino,4,2,3,1,1,0,2,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+183,Caio Morcelli,28/01/15 03:22 PM,40,Feminino,38,Feminino,9,1,0,1,0,0,0,0,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+184,Anna Carolina Alves,29/01/15 11:54 AM,37,Feminino,51,Feminino,6,2,1,2,2,0,2,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+185,Anna Carolina Alves,29/01/15 12:10 PM,38,Feminino,25,Masculino,3,1,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+186,Anna Carolina Alves,29/01/15 12:25 PM,39,Feminino,19,Masculino,3,2,1,1,0,0,1,2,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+187,Anna Carolina Alves,29/01/15 12:41 PM,40,Feminino,20,Feminino,1,2,1,2,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+188,Anna Carolina Alves,29/01/15 01:00 PM,41,Feminino,23,Masculino,4,2,0,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+189,Caio Morcelli,29/01/15 01:13 PM,41,Feminino,36,Masculino,3,1,0,1,1,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+190,Caio Morcelli,29/01/15 01:30 PM,42,Feminino,18,Feminino,2,2,0,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+191,Caio Morcelli,29/01/15 02:00 PM,43,Feminino,16,Masculino,4,4 ou +,1,1,1,0,1,1,1,1,Analfabeto / Primário incompleto (Analfabeto ou até 3a. Série do Fundamental) 
+192,Caio Morcelli,29/01/15 02:59 PM,44,Feminino,40,Feminino,6,2,0,2,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+193,Caio Morcelli,29/01/15 03:19 PM,45,Feminino,18,Feminino,3,1,0,1,0,0,0,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+194,Caio Morcelli,29/01/15 03:34 PM,46,Feminino,29,Feminino,2,1,0,1,1,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+195,Caio Morcelli,29/01/15 03:54 PM,47,Masculino,25,Feminino,1,1,0,1,1,0,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+196,Caio Morcelli,29/01/15 04:30 PM,48,Feminino,25,Feminino,4,3,1,1,1,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+197,Jacqueline Maximiano Conceicao,30/01/15 10:02 AM,65,Feminino,34,Feminino,3,1,1,1,1,0,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+198,Anna Carolina Alves,30/01/15 10:08 AM,42,Feminino,40,Masculino,7,1,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+199,Caio Morcelli,30/01/15 10:11 AM,49,Feminino,55,Masculino,3,2,0,1,0,0,1,2,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+200,Anna Carolina Alves,30/01/15 10:26 AM,43,Feminino,28,Feminino,1,1,0,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+201,Caio Morcelli,30/01/15 10:28 AM,50,Feminino,31,Masculino,5,1,0,1,0,0,1,0,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+202,Anna Carolina Alves,30/01/15 10:40 AM,44,Feminino,36,Masculino,4,3,0,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+203,Caio Morcelli,30/01/15 10:45 AM,51,Feminino,50,Feminino,0,2,1,1,0,0,1,1,1,0,Ginasial completo / Colegial incompleto (Fundamental completo) 
+204,Anna Carolina Alves,30/01/15 10:56 AM,45,Feminino,27,Masculino,2,2,1,1,1,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+205,Caio Morcelli,30/01/15 11:06 AM,52,Feminino,20,Masculino,2,1,0,1,0,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+206,Anna Carolina Alves,30/01/15 11:10 AM,46,Feminino,41,Feminino,6,2,1,1,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+207,Anna Carolina Alves,30/01/15 11:41 AM,47,Masculino,41,Masculino,2,1,1,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+208,Anna Carolina Alves,30/01/15 12:06 PM,48,Feminino,31,Masculino,7,1,1,2,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+209,Anna Carolina Alves,30/01/15 12:18 PM,49,Feminino,24,Feminino,4,2,1,1,0,0,1,1,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+210,Anna Carolina Alves,30/01/15 12:40 PM,50,Feminino,46,Masculino,3,0,0,1,1,0,1,0,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+211,Anna Carolina Alves,30/01/15 12:56 PM,51,Feminino,32,Masculino,9,1,2,1,1,0,1,0,1,0,Colegial completo / Superior incompleto (Médio completo)
+212,Anna Carolina Alves,30/01/15 01:10 PM,52,Feminino,30,Feminino,5,1,0,1,0,0,0,1,0,0,Colegial completo / Superior incompleto (Médio completo)
+213,Anna Carolina Alves,30/01/15 01:25 PM,53,Feminino,38,Feminino,1,2,2,2,1,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
+214,Anna Carolina Alves,30/01/15 01:41 PM,54,Feminino,26,Feminino,1,4 ou +,1,1,0,0,1,3,1,0,Primário completo / Ginasial incompleto (Até 4a. Série do Fundamental)
+215,Anna Carolina Alves,30/01/15 02:10 PM,54,Feminino,28,Feminino,1,1,0,1,0,0,1,1,1,0,Colegial completo / Superior incompleto (Médio completo)
